@@ -1,0 +1,34 @@
+
+
+Version:	3.12
+CmdLine:	C:\Users\jacob\Desktop\ACES\ACES Data\ACES DATA APP.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\jacob\Desktop\ACES\ACES Data\.
+Java min ver:	1.007.000_000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files (x86)\Java\jre1.8.0_251\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_241
+Check launcher:	C:\Program Files (x86)\Java\jre1.8.0_241\bin\javaw.exe (OK)
+Match:		1.008.000_241
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_251
+Check launcher:	C:\Program Files (x86)\Java\jre1.8.0_251\bin\javaw.exe (OK)
+Match:		1.008.000_251
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_231
+Ignore:		1.008.000_231
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+32-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_251 (32-bit)
+Launcher:	C:\Program Files (x86)\Java\jre1.8.0_251\bin\javaw.exe
+Launcher args:	-jar "C:\Users\jacob\Desktop\ACES\ACES Data\ACES DATA APP.exe"
+Args length:	62/32768 chars
+Exit code:	1
