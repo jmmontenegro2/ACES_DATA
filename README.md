@@ -10,5 +10,8 @@ I've added two video files to the repo to help with setting up the JAR files wit
 Read Excel sheets in Java
 https://www.javatpoint.com/how-to-read-excel-file-in-java
 
+Launch4j
+http://launch4j.sourceforge.net/
+
 Java prog to executable (Runs only on Windows, to run Windows applications on another OS checkout Wine https://www.winehq.org/)
 https://stackoverflow.com/questions/2011664/compiling-a-java-program-into-an-executable
